@@ -1,0 +1,2 @@
+name your venv gemini 
+install the following modules
